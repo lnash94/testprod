@@ -1,0 +1,3 @@
+[workspace]
+title = "testProd"
+packages = ["prod"]

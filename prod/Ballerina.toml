@@ -1,0 +1,9 @@
+[package]
+org = "hansaninissanka"
+name = "prod"
+version = "0.1.0"
+distribution = "2201.14.2"
+title = "prod"
+
+[build-options]
+sticky = true
